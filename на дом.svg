@@ -9,8 +9,8 @@
 </mask>
 <rect x="95.3291" y="78.5569" width="23.2025" height="23.2025" rx="3" stroke="#2B5DDC" stroke-width="10" stroke-linejoin="round" mask="url(#path-7-inside-1_31_598)"/>
 <path d="M72 49.9999H58C55.2386 49.9999 53 52.2385 53 54.9999V68.9999" stroke="#2B5DDC" stroke-width="5" stroke-linecap="round"/>
-<rect x="119" y="121.139" width="60.6835" height="48.1899" rx="5" fill="#FA675B"/>
-<path d="M161.835 122.924V118.462V118.462C161.835 115.998 159.838 114 157.373 114H141.31C138.846 114 136.848 115.998 136.848 118.462V118.462V122.924" stroke="#FA675B" stroke-width="5"/>
-<path d="M149.342 137.203L149.342 151.481" stroke="white" stroke-width="4" stroke-linecap="round"/>
-<path d="M142.203 144.342H156.481" stroke="white" stroke-width="4" stroke-linecap="round"/>
+<rect x="109" y="124.935" width="60.6835" height="40.0646" rx="5" fill="#FA675B"/>
+<path d="M151.835 126.419V122.71V122.71C151.835 120.661 150.175 119 148.126 119H130.558C128.509 119 126.848 120.661 126.848 122.71V122.71V126.419" stroke="#FA675B" stroke-width="5"/>
+<path d="M138.899 139L138.899 150.871" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M133 144.935H144.797" stroke="white" stroke-width="2" stroke-linecap="round"/>
 </svg>
