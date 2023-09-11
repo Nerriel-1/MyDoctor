@@ -1,15 +1,15 @@
 <svg width="212" height="212" viewBox="0 0 212 212" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M170.126 95.9315L105.615 50" stroke="#2B5DDC" stroke-width="5" stroke-linecap="round"/>
-<path d="M40 96.8409L105.615 50.0002" stroke="#2B5DDC" stroke-width="5" stroke-linecap="round"/>
-<path d="M54.5771 104.228V157.443C54.5771 160.205 56.8157 162.443 59.5771 162.443H85.4758C86.0281 162.443 86.4758 161.995 86.4758 161.443V124.962" stroke="#2B5DDC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M156.653 104.228V157.443C156.653 160.205 154.415 162.443 151.653 162.443H125.754C125.202 162.443 124.754 161.995 124.754 161.443V124.962" stroke="#2B5DDC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M86.4759 124.165H124.754" stroke="#2B5DDC" stroke-width="5" stroke-linecap="round"/>
-<mask id="path-7-inside-1_31_598" fill="white">
+<path d="M170.126 95.9315L105.615 50" stroke="black" stroke-width="5" stroke-linecap="round"/>
+<path d="M40 96.8409L105.615 50.0002" stroke="black" stroke-width="5" stroke-linecap="round"/>
+<path d="M54.5771 104.228V157.443C54.5771 160.205 56.8157 162.443 59.5771 162.443H85.4758C86.0281 162.443 86.4758 161.995 86.4758 161.443V124.962" stroke="black" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M156.653 104.228V126.5" stroke="black" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M86.4759 124.165H124.754" stroke="black" stroke-width="5" stroke-linecap="round"/>
+<mask id="path-7-inside-1_117_64" fill="white">
 <rect x="95.3291" y="78.5569" width="23.2025" height="23.2025" rx="3"/>
 </mask>
-<rect x="95.3291" y="78.5569" width="23.2025" height="23.2025" rx="3" stroke="#2B5DDC" stroke-width="10" stroke-linejoin="round" mask="url(#path-7-inside-1_31_598)"/>
-<path d="M72 49.9999H58C55.2386 49.9999 53 52.2385 53 54.9999V68.9999" stroke="#2B5DDC" stroke-width="5" stroke-linecap="round"/>
-<rect x="109" y="124.935" width="60.6835" height="40.0646" rx="5" fill="#FA675B"/>
+<rect x="95.3291" y="78.5569" width="23.2025" height="23.2025" rx="3" stroke="black" stroke-width="10" stroke-linejoin="round" mask="url(#path-7-inside-1_117_64)"/>
+<path d="M72 49.9999H58C55.2386 49.9999 53 52.2385 53 54.9999V68.9999" stroke="black" stroke-width="5" stroke-linecap="round"/>
+<rect x="111.5" y="127.435" width="55.6835" height="35.0646" rx="2.5" stroke="#FA675B" stroke-width="5"/>
 <path d="M151.835 126.419V122.71V122.71C151.835 120.661 150.175 119 148.126 119H130.558C128.509 119 126.848 120.661 126.848 122.71V122.71V126.419" stroke="#FA675B" stroke-width="5"/>
 <path d="M138.899 139L138.899 150.871" stroke="white" stroke-width="2" stroke-linecap="round"/>
 <path d="M133 144.935H144.797" stroke="white" stroke-width="2" stroke-linecap="round"/>
